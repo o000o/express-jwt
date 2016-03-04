@@ -8,11 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "express_jwt"
+    "url": "https://github.com/o000o/express-jwt.git"
   },
   "author": "ooo",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.13.4",
     "express-jwt": "^3.3.0"
   }
 }
